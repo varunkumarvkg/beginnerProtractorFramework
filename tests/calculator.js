@@ -41,6 +41,6 @@ describe('demo caluculator tests', function(){
         //expect(result.getText()).toEqual('9');
         homepage.verifyResult('10');
  
-         browser.sleep(2000);
+         browser.sleep(3000);
      });
 });
