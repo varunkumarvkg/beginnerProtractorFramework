@@ -39,7 +39,7 @@ describe('demo caluculator tests', function(){
  
         //let result = element(by.cssContainingText('.ng-binding', '5'));
         //expect(result.getText()).toEqual('9');
-        homepage.verifyResult('10');
+        homepage.verifyResult('15');
  
          browser.sleep(3000);
      });
